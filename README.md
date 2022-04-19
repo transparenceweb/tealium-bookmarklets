@@ -10,6 +10,9 @@ Will log a message to console, for example: `Tealium version is ut4.46.202202101
 ## Duplicate Eventstream Event Feed
 In Eventstream, there is no native function to allow the copying or duplication of event feeds as there are with other features such as connectors. This script allows that.
 1. Select the Event Feed you want to duplicate and copy the GUID from the end of the URL.
-![Copy GUID from Event Feed URL](https://user-images.githubusercontent.com/2863273/163969851-210e8733-7944-44b3-9aed-376ff1942057.png)
+
+![Copy GUID from Event Feed URL](https://user-images.githubusercontent.com/2863273/163970080-a82b30e5-a272-424c-a6bc-c986671c35ca.png)
+
 2. Click the bookmarklet and paste the copied GUID into the pop up.
+
 ![Paste into pop up to create copy](https://user-images.githubusercontent.com/2863273/163969937-9515cc21-e8ff-41d9-9d07-81db521156a4.png)
