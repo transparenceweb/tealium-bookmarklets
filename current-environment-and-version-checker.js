@@ -1,0 +1,1 @@
+javascript:(function(){let tealium_version = utag.data["ut.version"]; let tealium_env = utag.data["ut.env"]; console.log(`Tealium version is ${tealium_version} and current environment is ${tealium_env}`);})();
